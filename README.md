@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @blrds
 - 👀 I’m interested in programming different algorithms and game-development
 - 🌱 I’m currently learning C++|C#|Unity
-- 💞️ I’m looking to collaborate on anu project, where i can take expirience
+- 💞️ I’m looking to collaborate on any project, where i can take expirience
 - 📫 How to reach me blrds@yandex.ru
 
 <!---
